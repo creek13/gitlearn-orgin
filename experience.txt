@@ -1,0 +1,7 @@
+
+one directory is different from file
+    file is specifial and directory is a 'path'
+    when mkdir a new directory the work tree create a new layer in the next
+    when vi a new file the file will be add to the working directory(pwd can check"
+    (maybe some mistakes 
+
