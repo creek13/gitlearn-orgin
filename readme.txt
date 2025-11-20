@@ -6,4 +6,6 @@ git tracked the changes
 creating a new branch is quick and quick
 =======
 creating a new branch is quick and simple
->>>>>>> feature1
+>>>>>>> feature1 
+
+sb mayuanke
